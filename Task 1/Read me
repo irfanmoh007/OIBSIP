@@ -1,0 +1,29 @@
+#  Basic Network Scanning with Nmap
+
+##  Overview
+
+This project demonstrates the use of **Nmap** for basic network scanning. The goal is to perform a network scan on a target machine to identify open ports and the services running on them. This task is crucial in cybersecurity and penetration testing for discovering potential vulnerabilities and understanding the network environment.
+
+---
+
+##  Objective
+
+- Install and use Nmap for scanning.
+- Scan a local or virtual machine.
+- Identify open ports and running services.
+- Document and explain the findings.
+
+---
+
+## 🛠 Tools Used
+
+- **Nmap** – A powerful open-source network scanning tool used for network discovery and security auditing.
+
+---
+
+## 🔧 Installation
+
+### On Linux (Debian/Ubuntu):
+```bash
+sudo apt update
+sudo apt install nmap
