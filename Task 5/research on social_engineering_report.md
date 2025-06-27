@@ -1,6 +1,6 @@
-# 🧠 Research Report on Social Engineering Attacks
+#  Research Report on Social Engineering Attacks
 
-## 🎯 Objective
+##  Objective
 
 This report provides an in-depth study of common social engineering attacks, their psychological techniques, real-world case studies, and proven strategies for prevention. Social engineering is one of the most dangerous forms of cyberattacks, as it targets human behavior rather than system vulnerabilities.
 
